@@ -1,0 +1,2 @@
+add_executable(plDotInspection PLDotInspection.cpp)
+target_link_libraries(plDotInspection PUBLIC pljit)
